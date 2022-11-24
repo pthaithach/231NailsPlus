@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Nails Plus",
+        "slug"      : "Nails-plus",
+        "phone"     : "(203) 757-8213",
+        "email"     : "nailspluswatwerbury@gmail.com",
+        "address"   : "625 Wolcoo St. Waterbury, Connecticut 06705",
+        "time_1"    : "Mon - Sat: 09:30 AM - 06:00 PM",
+        "time_2"    : "Sun: Closed"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/nailspluswaterbury",
+        "instagram" :   "#",
+        "google"    :   "https://g.page/nailspluswaterbury",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTAyMjZ8bmFpbHNwbHVzNjI1fENUXzA4MTc5fGM3MmQyOGIyMzE4M2I4MDBhNTEzMWUxNDUzN2FhMjJh",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2985.4403375544302!2d-73.01495024858502!3d41.55971359315459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7c0c4f38a5e13%3A0x7b89bafe053890fc!2sNails%20Plus!5e0!3m2!1sen!2s!4v1669261203077!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#3186DB",
+        "primary_light"         :   "#025893",
+        "primary_hover"         :   "#98C9F9",
+        "secondary"             :   "#FFFA8A",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
+
